@@ -1,3 +1,3 @@
 # git_test
-Helloo woorld!!
+Helloo woorld!
 This is my first repo on GitHub!
